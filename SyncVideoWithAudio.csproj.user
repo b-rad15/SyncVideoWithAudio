@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartWorkingDirectory>C:\Users\brado\OneDrive\Programs\C#\SyncVideoWithAudio\</StartWorkingDirectory>
+    <StartArguments>align "D:\SteamLibrary\steamapps\common\Beat Saber\Beat Saber_Data\CustomLevels\5ba3 %28Dance The Night Away %286 Lane%29 - KikaeAeon%29\TWICE %27Dance The Night Away%27 M_V-Fm5iP0S1z9w.mp4" "D:\SteamLibrary\steamapps\common\Beat Saber\Beat Saber_Data\CustomLevels\5ba3 %28Dance The Night Away %286 Lane%29 - KikaeAeon%29\song.egg" 5:00</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PublishUrlHistory>publish\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartArguments>align .\TestData\SSFDTNA.mkv .\TestData\NiziUDTNA.mp4 3:10</StartArguments>
+    <StartWorkingDirectory>C:\Users\brado\OneDrive\Programs\C#\SyncVideoWithAudio\</StartWorkingDirectory>
+  </PropertyGroup>
+</Project>

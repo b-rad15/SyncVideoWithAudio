@@ -1,0 +1,37 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.idea/.idea.SyncVideoWithAudio/.idea
+/.idea/.idea.SyncVideoWithAudio/riderModule.iml
+/.vs
+/.vscode
+/bin
+/obj
+/packages
+/publish
+/Test Data
+/[Full Album] NiziU - Make you happy - EP-yv34nuVgXDs.webm.ffproxy.wav
+/[Full Album] NiziU - Make you happy - EP-yv34nuVgXDs.webm
+/TWICE 'Dance The Night Away' M_V-Fm5iP0S1z9w.mp4-cut.mp4
+/TWICE 'Dance The Night Away' M_V-Fm5iP0S1z9w-cut2.mp4
+/TWICE 'Dance The Night Away' M_V-Fm5iP0S1z9w-cut.mp4
+/times.txt
+/testHWEncode.ps1
+/testCuts.ps1
+/testConcat.ps1
+/test.ps1
+/SyncVideoWithAudio_TemporaryKey.pfx
+/song.wav
+/out.txt
+/NiziU  『Make you happy』 M_V-QW28YKqdxe0.webm
+/NiziU  『Make you happy』 M_V-QW28YKqdxe0-cut.mp4
+/NiziU  『Make you happy』 M_V-QW28YKqdxe0-cut-webm.mp4
+/NiziU  『Make you happy』 M_V-QW28YKqdxe0-cut-webm-demux.webm
+/mv.wav
+/filters.txt
+/file3.webm
+/encoders.txt
+/demuxConfig.txt
+/decoders.txt
+/concat.txt
